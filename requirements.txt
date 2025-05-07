@@ -1,0 +1,6 @@
+streamlit
+streamlit-pdf-viewer
+langchain-openai
+langchain-community
+faiss-cpu
+pypdf
